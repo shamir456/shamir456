@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Angular and SpringBoot
+- 🔭 I’m currently working on Angular and Java
 - 🌱 I’m currently learning Data Engineering Tools and Techniques
 - 📫 How to reach me: :mailbox_closed:	
 - ⚡ Fun fact: I am a leftie
